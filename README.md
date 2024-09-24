@@ -9,6 +9,7 @@ that is not that close I always wonder whether the game will come down to the wi
 These numbers and information sometimes could be estimated by some experienced fan’s
 intuition, but for a spectator that does not have that much experience watching the game
 would see this information very valuable.
+
 The main product of this project is a dashboard that could let the users interact. The
 dashboard could let the users choose the margin of points and time left on the play clock
 (20:00, 16:00, 12:00, 8:00, 4:00), then the probability of winning and the game becoming a
